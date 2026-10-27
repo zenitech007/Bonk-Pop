@@ -1,0 +1,6 @@
+{
+  "name": "Prism Relic: Match-3",
+  "description": "Step 1 of an accessible, color-blind friendly match-3 puzzle game with an 8x8 grid, distinct geometric gems, tap/swipe swapping, and match detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

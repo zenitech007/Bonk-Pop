@@ -1,0 +1,30 @@
+name: prism_relic_match3
+description: Bonk Pop — An original anime-themed match-3 puzzle game with colour-blind accessible silhouettes.
+publish_to: 'none'
+version: 0.4.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.18.0
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/themes/sakura_festival/
+  fonts:
+    - family: MPlusRounded
+      fonts:
+        - asset: assets/fonts/MPLUSRounded1c-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/MPLUSRounded1c-ExtraBold.ttf
+          weight: 800

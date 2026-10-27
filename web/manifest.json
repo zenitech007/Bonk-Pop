@@ -1,0 +1,10 @@
+{
+  "name": "Bonk Pop",
+  "short_name": "Bonk Pop",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1E1028",
+  "theme_color": "#FF6B9E",
+  "description": "Bonk Pop — An original anime Sakura Festival match-3 puzzle game.",
+  "orientation": "any"
+}
